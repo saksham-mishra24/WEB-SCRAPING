@@ -364,3 +364,7 @@ df = pd.DataFrame(scrape_dict)
 ```python
 df.to_csv("hotel-list.csv")
 ```
+
+
+[hotel-list.csv](https://github.com/saksham-mishra24/WEB-SCRAPING/files/10715627/hotel-list.csv)
+
